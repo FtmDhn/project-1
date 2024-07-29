@@ -1,16 +1,16 @@
-Project-1
+# Project-1
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![view](https://github.com/user-attachments/assets/e1fb1ad7-aae4-4321-b313-f5c2e7cb6c21)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view_2](https://github.com/user-attachments/assets/b6ef746d-6321-4168-b7f6-9fa6dd030db5)
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- 🐾 [Demo Project](https://ftmdhn.github.io/test/)
 
-- Developed by Fatemeh Dehghani
+- 👩‍💻 Developed by Fatemeh Dehghani 
 
-- Created - 2024-07-29
+- 🕜 Created - 2024-07-29
 
 - Technologies Used - Html , css , js
 
@@ -18,4 +18,4 @@ Project-1
 
 - Role - Frontend
 
-- How to reach me : with my [instagram]() and [linkedin](https://www.linkedin.com/in/fatemeh-dehghani-060973314/)
+- How to reach me : with my [instagram](https://www.instagram.com/ftm.dehgni/) and [linkedin](https://www.linkedin.com/in/fatemeh-dehghani-060973314/)
