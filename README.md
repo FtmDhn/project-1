@@ -6,7 +6,7 @@
 
 ![view_2](https://github.com/user-attachments/assets/b6ef746d-6321-4168-b7f6-9fa6dd030db5)
 
-- 🐾 [Demo Project](https://ftmdhn.github.io/test/)
+- 🐾 [Demo Project](https://ftmdhn.github.io/project-1/)
 
 - 👩‍💻 Developed by Fatemeh Dehghani 
 
